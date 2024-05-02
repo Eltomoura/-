@@ -94,7 +94,7 @@ handlerEvents.threadBanned=This group has been banned from using the bot\n» Rea
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
 handlerEvents.onlyAdminBot=❌ | Currently only bot's admin can use bot \n______________ \n𝐓𝐎𝐑𝐄𝐊𝐈📲
 handlerEvents.commandNotFound=😐𝙲𝙴𝚃𝚃𝙴 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝙴 𝙽'𝙴𝚇𝙸𝚂𝚃𝙴 𝙿𝙰𝚂 𝙴𝙲𝚁𝙸𝚃 𝙹𝚄𝚂𝚃𝙴 \n________________ \n【°𝙷𝙴𝙻𝙿】\n________________
-handlerEvents.commandNotFound2=💛𝚂𝙾𝚄𝚁𝙲𝙴 𝙳𝚄 𝙱𝙾𝚃💙 \n━━━━━━━━━━ \n✍️𝙲𝚁𝙴𝙰𝚃𝙴𝚄𝚁 :\n✰..𝐓𝐎𝐌𝐎𝐔𝐑𝐀..✰ \n🤙𝙻𝙸𝙴𝙽 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 : https://www.facebook.com/uchiwapro2michael \n┉┉┉┉┉┉┉┉┉┉┉┉ \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰\n________________
+handlerEvents.commandNotFound2=💛𝚂𝙾𝚄𝚁𝙲𝙴 𝙳𝚄 𝙱𝙾𝚃💙 \n━━━━━━━━━━ \n✍️𝙲𝚁𝙴𝙰𝚃𝙴𝚄𝚁 :\n✰..𝐓𝐎𝐌𝐎𝐔𝐑𝐀..✰ \n🤙𝙻𝙸𝙴𝙽 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 : https://www.facebook.com/profile.php?id=61551989415558 \n┉┉┉┉┉┉┉┉┉┉┉┉ \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰\n________________
 handlerEvents.commandSyntaxError=The command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1" \n______________ \n✰..𝐓𝐎𝐌𝐎𝐔𝐑𝐀..✰\n____________________ 
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1" ✰..𝗧𝗢𝗠𝗢𝗨𝗧𝗔..✰
